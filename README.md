@@ -26,4 +26,3 @@ You can get more ideas from other nice people using this template:
 
 
 Please do not remove the attibution link of the template, so that other people can find it too.
-# aarzchan.github.io
